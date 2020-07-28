@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+I am Joy. Passionate Software engineer to solve problems regardless of tools and technologies.
+
 <!--
 **joymon/joymon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
