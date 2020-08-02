@@ -1,7 +1,7 @@
 [![alt text][1.2]][1]  [![alt text][2.2]][2]  [![alt text][2.3]][3]  [![alt text][2.4]][4] [![alt text][2.5]][5]
 ### Hi there 👋
 
-I am Joy. Passionate Software engineer to solve problems regardless of tools and technologies.
+I am Joy ([JoymonOnline.in](https://joymononline.in)). Passionate Software engineer to solve problems regardless of tools and technologies.
 
 <!--
 **joymon/joymon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -9,7 +9,7 @@ I am Joy. Passionate Software engineer to solve problems regardless of tools and
 
 - 🔭 I’m currently working on
   - Coding diagrams using PlantUML
-  - Porting my personal website [JoymonOnline.in](https://joymononline.in) from AngularJS to Hugo
+  - Porting my personal website [https://JoymonOnline.in](https://joymononline.in) from AngularJS to Hugo
 - 🌱 I’m currently learning
   - AZ-300
 - 👯 I’m looking to collaborate on
