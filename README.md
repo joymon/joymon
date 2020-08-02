@@ -24,8 +24,8 @@ I am Joy. Passionate Software engineer to solve problems regardless of tools and
 - 📫 How to reach me: [![alt text][1.2]][1] [Twitter][1] [![alt text][2.2]][2] [Facebook][2] [![alt text][2.3]][3] [LinkedIn][3] [![alt text][2.4]][4] [Joymon v/s Code][4]
 - ⚡ Fun fact: I still write code
 
-[1.2]: http://i.imgur.com/wWzX9uB.png (twitter icon without padding)
-[2.2]: http://i.imgur.com/fep1WsG.png (facebook icon without padding)
+[1.2]: twitter.png (twitter icon without padding)
+[2.2]: facebook.png (facebook icon without padding)
 [2.3]: linkedin.png (LinkedIn Icon)
 [2.4]: youtube.png (YoyTube Icon)
 
