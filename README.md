@@ -1,3 +1,4 @@
+[![alt text][1.2]][1] [Twitter][1] [![alt text][2.2]][2] [Facebook][2] [![alt text][2.3]][3] [LinkedIn][3] [![alt text][2.4]][4] [Joymon v/s Code][4]
 ### Hi there 👋
 
 I am Joy. Passionate Software engineer to solve problems regardless of tools and technologies.
@@ -21,7 +22,6 @@ I am Joy. Passionate Software engineer to solve problems regardless of tools and
   - .Net, Node.JS, WPF, WCF, ASP.Net MVC, ASP.Net WebAPI
   - Functional programming, TDD, 
   - C#, JavaScript, TypeScript, SQL
-- 📫 How to reach me: [![alt text][1.2]][1] [Twitter][1] [![alt text][2.2]][2] [Facebook][2] [![alt text][2.3]][3] [LinkedIn][3] [![alt text][2.4]][4] [Joymon v/s Code][4]
 - ⚡ Fun fact: I still write code
 
 [1.2]: twitter.png (twitter icon without padding)
