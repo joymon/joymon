@@ -1,4 +1,4 @@
-[![alt text][1.2]][1]  [![alt text][2.2]][2]  [![alt text][2.3]][3] [LinkedIn][3] [![alt text][2.4]][4] [Joymon v/s Code][4]
+[![alt text][1.2]][1]  [![alt text][2.2]][2]  [![alt text][2.3]][3]  [![alt text][2.4]][4] 
 ### Hi there 👋
 
 I am Joy. Passionate Software engineer to solve problems regardless of tools and technologies.
