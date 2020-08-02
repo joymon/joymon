@@ -24,11 +24,11 @@ I am Joy ([JoymonOnline.in](https://joymononline.in)). Passionate Software engin
   - C#, JavaScript, TypeScript, SQL
 - ⚡ Fun fact: I still write code
 
-[1.2]: twitter.png (twitter icon without padding)
-[2.2]: facebook.png (facebook icon without padding)
-[2.3]: linkedin.png (LinkedIn Icon)
-[2.4]: youtube.png (YoyTube Icon)
-[2.5]: blogger.png (Blogger Icon)
+[1.2]: twitter.png (Twitter)
+[2.2]: facebook.png (Facebook)
+[2.3]: linkedin.png (LinkedIn)
+[2.4]: youtube.png (YoyTube - Joymon v/s Code)
+[2.5]: blogger.png (Blogger - Joymon v/s Code)
 
 [1]: https://twitter.com/joymon
 [2]: https://www.facebook.com/joygeorgek
