@@ -23,13 +23,15 @@ I am Joy. Passionate Software engineer to solve problems regardless of tools and
   - C#, JavaScript, TypeScript, SQL
 - 📫 How to reach me:
   - [![alt text][1.2]][1] [Twitter][1]
-  - [![alt text][2.2]][2] [Facebook](https://www.facebook.com/joygeorgek)
+  - [![alt text][2.2]][2] [Facebook][2]
   - [LinkedIn](https://www.linkedin.com/in/joymon)
-  - :tv: Channel [Joymon v/s Code](https://www.youtube.com/channel/UC78wYrq_keVaDV8STReHRxg)
+  - [![alt text][2.4]][2] [Joymon v/s Code][4]
 - ⚡ Fun fact: I still write code
 
 [1.2]: http://i.imgur.com/wWzX9uB.png (twitter icon without padding)
 [2.2]: http://i.imgur.com/fep1WsG.png (facebook icon without padding)
+[2.4]: youtube.png (YoyTube Icon)
 
 [1]: https://twitter.com/joymon
 [2]: https://www.facebook.com/joygeorgek
+[4]: https://www.youtube.com/channel/UC78wYrq_keVaDV8STReHRxg
