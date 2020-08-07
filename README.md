@@ -22,7 +22,7 @@ I am Joy ([JoymonOnline.in](https://joymononline.in)). Passionate Software engin
   - .Net, Node.JS, WPF, WCF, ASP.Net MVC, ASP.Net WebAPI
   - Functional programming, TDD, 
   - C#, JavaScript, TypeScript, SQL
-- ⚡ Fun fact: I still write code
+- ⚡ Fun fact: I still write code.
 
 [1.2]: twitter.png (Twitter)
 [2.2]: facebook.png (Facebook)
