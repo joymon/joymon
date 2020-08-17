@@ -14,7 +14,7 @@ I am Joy ([JoymonOnline.in](https://joymononline.in)). Passionate Software engin
 - 👯 I’m looking to collaborate on
   - Anything but I need to get interest
 - 🤔 I’m looking for help with ...
-  - Cloud certification AZ-300
+  - Azure certification AZ-300
 - 💬 Ask me about ...
   - Software Architecture, Distributed systems, Serverless, Microservices
   - Azure, Docker containers
