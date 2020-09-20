@@ -23,7 +23,7 @@ I am Joy ([JoymonOnline.in](https://joymononline.in)). Passionate Software engin
   - C#, JavaScript, TypeScript, SQL
 - ⚡ Fun fact: I still write code.
 
-<!--[![alt text][1.2]][1]  [![alt text][2.2]][2]  [![alt text][2.3]][3]  [![alt text][2.4]][4] [![alt text][2.5]][5]-->
+[![alt text][1.2]][1]  [![alt text][2.2]][2]  [![alt text][2.3]][3]  [![alt text][2.4]][4] [![alt text][2.5]][5]
 
 [1.2]: twitter.png (Twitter)
 [2.2]: facebook.png (Facebook)
