@@ -18,9 +18,9 @@ I am Joy ([JoymonOnline.in](https://joymononline.in)). Passionate Software engin
 - 🤔 I’m looking for help with ...
   - Azure certification AZ-300
 - 💬 Ask me about ...
-  - Software Architecture, Distributed systems, Serverless, Microservices
+  - Software Architecture, Distributed systems, Serverless, Microservices, SOA 
   - Azure, Docker containers
-  - .Net, Node.JS, WPF, WCF, ASP.Net MVC, ASP.Net WebAPI
+  - Angular, Node.JS, .Net,  WPF, WCF, ASP.Net MVC, ASP.Net WebAPI, Hugo
   - Functional programming, TDD
   - C#, JavaScript, TypeScript, SQL
 - ⚡ Fun fact: I still write code.
