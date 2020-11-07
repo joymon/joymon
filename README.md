@@ -23,7 +23,7 @@ I am Joy ([JoymonOnline.in](https://joymononline.in)). Passionate Software engin
   - Angular, Node.JS, .Net,  WPF, WCF, ASP.Net MVC, ASP.Net WebAPI, Hugo
   - Functional programming,GoF patterns, Dependency Injection, TDD, Mocking
   - C#, JavaScript, TypeScript, SQL
-- ⚡ Fun fact: I still write code.
+- ⚡ Fun fact: I still write code and tests.
 
 ### My GitHub life
 
