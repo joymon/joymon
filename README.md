@@ -12,7 +12,7 @@ I am Joy ([JoymonOnline.in](https://joymononline.in)). Passionate Software engin
   - Coding diagrams using PlantUML
   - Porting my personal website [https://JoymonOnline.in](https://joymononline.in) from AngularJS to JAMstack technology using Hugo
 - 🌱 I’m currently learning
-  - Certification AZ-300
+  - Certification AZ-303
 - 👯 I’m looking to collaborate on
   - Anything but I need to get interest
 - 🤔 I’m looking for help with ...
