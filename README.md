@@ -21,8 +21,9 @@ I am Joy ([JoymonOnline.in](https://joymononline.in)). Passionate Software engin
   - Software Architecture, Distributed systems, Serverless, Microservices, SOA 
   - Azure, Docker containers
   - Angular, Node.JS, .Net,  WPF, WCF, ASP.Net MVC, ASP.Net WebAPI, Hugo
-  - Functional programming,GoF patterns, Dependency Injection, TDD, Mocking
-  - C#, JavaScript, TypeScript, SQL
+  - Functional programming,GoF patterns, Dependency Injection
+  - TDD, Mocking
+  - C#, JavaScript, TypeScript, SQL & PowerShell
 - ⚡ Fun fact: I still write code and tests.
 
 ### My GitHub life
