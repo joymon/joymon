@@ -25,6 +25,9 @@ I am Joy ([JoymonOnline.in](https://joymononline.in)). Passionate Software engin
   - Automation, TDD, Mocking
   - C#, JavaScript, TypeScript,VB.Net, SQL & PowerShell
 - ⚡ Fun fact: I still write code and tests.
+-  :checkered_flag: My yearwise achievments & goals as software engineer
+  - [2020](https://joymonscode.blogspot.com/2019/12/review-of-2019-plans-for-2020-as.html)
+  - [2021](https://joymonscode.blogspot.com/2021/01/review-of-2020-plans-for-2021-as.html)
 
 ### My GitHub life
 
