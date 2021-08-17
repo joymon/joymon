@@ -12,11 +12,11 @@ I am Joy ([JoymonOnline.in](https://joymononline.in)). Passionate Software engin
   - Coding diagrams using PlantUML
   - Porting my personal website [https://JoymonOnline.in](https://joymononline.in) from AngularJS to JAMstack technology using Hugo
 - 🌱 I’m currently learning
-  - Certification AZ-303
-- 👯 I’m looking to collaborate on
-  - Anything that interest me.
+  - Kubernetes
+  - Solidity
+  - Python
 - 🤔 I’m looking for help with ...
-  - Azure certification AZ-303
+  - Kubernetes
 - 💬 Ask me about ...
   - Software Architecture, Distributed systems, Serverless, Microservices, SOA 
   - Azure, Docker containers
