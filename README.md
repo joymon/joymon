@@ -10,9 +10,9 @@ I am Joy ([JoymonOnline.in](https://joymononline.in)). Passionate Software engin
 
 - 🔭 I’m currently working on
   - Coding diagrams using PlantUML
-  - Porting my personal website [https://JoymonOnline.in](https://joymononline.in) from AngularJS to JAMstack technology using Hugo
+  - Kubernetes basic tutorials
+  - My JAMstack based result using Hugo
 - 🌱 I’m currently learning
-  - Kubernetes
   - Solidity
   - Python
 - 🤔 I’m looking for help with ...
@@ -21,7 +21,7 @@ I am Joy ([JoymonOnline.in](https://joymononline.in)). Passionate Software engin
   - Software Architecture, Distributed systems, Serverless, Microservices, SOA 
   - Azure, Docker containers
   - Angular, Node.JS, .Net,  WPF, WCF, ASP.Net MVC, ASP.Net WebAPI, JAMstack, Hugo
-  - Functional programming,GoF patterns, Dependency Injection
+  - Functional programming, GoF patterns, Dependency Injection
   - Automation, TDD, Mocking
   - C#, JavaScript, TypeScript,VB.Net, SQL & PowerShell
 - ⚡ Fun fact: I still write code and tests.
