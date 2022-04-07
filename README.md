@@ -30,6 +30,8 @@ I am Joy ([JoymonOnline.in](https://joymononline.in)). Passionate Software engin
   - [2020 achievements & 2021 plans](https://joymonscode.blogspot.com/2021/01/review-of-2020-plans-for-2021-as.html)
   - [2021 achievements & 2022 plans](https://joymonscode.blogspot.com/2022/01/review-of-2021-plans-for-2022-as.html)
 
+> More interested? Please check my [single page resume](https://joymon.github.io/single-page-resume/).
+
 ### My GitHub life
 
 ![My contributions by language](https://github-readme-stats.vercel.app/api/top-langs/?username=joymon&hide=css,html&layout=compact)
